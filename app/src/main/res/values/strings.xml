@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BaseCleanArchApp</string>
+    <string name="_msg_failed">يوجد خطأ ما </string>
+    <string name="no_account">لا يوجد حسابات!</string>
+    <string name="format_currency">%1$s  %2$s</string>
+    <string name="valid_required_name">حقل الاسم مطلوب</string>
+    <string name="valid_required_password">حقل كلمة المرور مطلوب</string>
+    <string name="valid_required">هذا الحقل مطلوب</string>
+    <string name="warning_email_pattern">الرجاء ادخال بريدالكتروني صحيح</string>
+    <string name="warning_password_length">كلمة المرور قصيرة جدا</string>
+    <string name="warning_password_not_match">كلمة المرور غير متطابقة</string>
+    <string name="warning_phone_pattern">رقم الجوال يجب ان يحتوي على ارقام فقط</string>
+    <string name="warning_phone_length_pattern">رقم الجوال قصير جدا</string>
+    <string name="title_here">العنوان هنا</string>
+    <string name="google_maps_key_" translatable="false">AIzaSyDD7WH1Qz2mvUUDuDvSSY6uUxQdOV2J3do</string>
+    <string name="all_field_required">كافة الحقول مطلوبة</string>
+    <string name="username_required">حقل اسم المستخدم مطلوب</string>
+    <string name="email_required">حقل البريد الالكتروني مطلوب</string>
+    <string name="mobile_required">حقل رقم الجوال مطلوب</string>
+    <string name="body_required">حقل نص الرسالة مطلوب</string>
+    <string name="title_required">حقل العنوان مطلوب</string>
+    <string name="no_internet_lbl">تعذر الإتصال بشبكة الإنترنت لديك رجاء تأكد من وجود خدمة الإنترنت، من ثم قُم بتحديث الصفحة</string>
+    <string name="no_internet_title">تعذر الإتصال بالانترنت</string>
+    <string name="please_download_app">الرجاء تحميل التطبيق</string>
+
+</resources>
